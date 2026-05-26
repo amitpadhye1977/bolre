@@ -98,7 +98,7 @@ Style: {style}
 
         response = client.chat.completions.create(
 
-            model="gpt-5.5-mini",
+            model="gpt-4o-mini",
 
             messages=[
 
